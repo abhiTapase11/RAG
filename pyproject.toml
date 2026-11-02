@@ -1,0 +1,14 @@
+[project]
+name = "doc-rag"
+version = "0.1.0"
+description = "Chat with your documents: grounded, cited answers over local files."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src", "tests"]
+addopts = "-q --color=yes"
+filterwarnings = [
+    "ignore::DeprecationWarning",
+    "ignore::FutureWarning",
+]

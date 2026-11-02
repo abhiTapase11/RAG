@@ -1,0 +1,104 @@
+NORTHWIND LOGISTICS - REMOTE WORK POLICY
+
+This is a fictional policy document written for the doc-rag demo. Northwind
+Logistics does not exist and none of these rules apply to anyone. The facts are
+invented so you can check whether an answer is grounded in the document.
+
+Document version 3.2, effective 1 April 2024. Owner: People Operations.
+
+SCOPE
+
+This policy applies to all salaried employees of Northwind Logistics in the
+Riverside, Oakmont and Tallow Bay offices. It does not apply to warehouse,
+dispatch or driver roles, which are covered by the Depot Operations Handbook.
+
+Contractors are covered only where their statement of work says so in writing.
+
+ELIGIBILITY
+
+Employees may work remotely after completing 60 days of continuous service.
+New joiners in their first 60 days work from an office at least four days a
+week so that onboarding and safety training can be completed in person.
+
+Remote work must be approved by the employee's direct manager and recorded in
+Workday. Approval lapses if the employee changes role or manager, and must be
+requested again within 15 working days of the change.
+
+CORE HOURS AND AVAILABILITY
+
+Core hours are 10:00 to 16:00 in the employee's registered time zone. Employees
+must be reachable on Slack and by phone during core hours and must respond to
+direct messages within two hours during that window.
+
+Meetings may not be scheduled before 08:30 or after 17:30 without the consent of
+every attendee. Any meeting longer than 50 minutes must include a 10-minute
+break.
+
+OFFICE ATTENDANCE
+
+Fully remote employees are expected on site for four days per quarter, which the
+company calls anchor days. Hybrid employees attend the office two days per week,
+on days agreed with their manager and published in the team calendar.
+
+Travel time to an anchor day counts as working time. Northwind reimburses
+standard-class rail fare and up to 95 dollars per night for accommodation when
+the journey exceeds 150 kilometres each way.
+
+EQUIPMENT AND EXPENSES
+
+Each remote employee receives a one-time home office allowance of 650 dollars,
+claimable in the first 90 days of remote work. The allowance covers a desk,
+chair, monitor and lighting, and does not cover rent, utilities or furniture
+removal.
+
+Northwind provides a laptop, a headset and an external monitor on request. A
+monthly internet contribution of 40 dollars is paid to employees who are
+approved as fully remote, and is not paid to hybrid employees.
+
+Damaged equipment must be reported to IT Service Desk within 48 hours. Lost or
+stolen equipment must be reported within 24 hours and to the local police where
+theft is suspected.
+
+DATA SECURITY
+
+Company data may only be accessed on Northwind-managed devices. Personal devices
+may be used for Slack and email only, and only with the company mobile device
+management profile installed.
+
+Full-disk encryption and automatic screen locking after 5 minutes of inactivity
+are mandatory. Public Wi-Fi may be used only through the company VPN.
+
+Printing customer data at home is prohibited. Paper records that already exist
+at home must be returned to an office shredding bin within 30 days.
+
+WORKING FROM ANOTHER COUNTRY
+
+Employees may work from another country for up to 20 working days per calendar
+year, subject to written approval from People Operations and the Tax team at
+least 21 days in advance. Approval is refused where it would create a permanent
+establishment risk or a local payroll obligation.
+
+Sanctioned countries are never approved. The list of approved countries is
+maintained by the Tax team and reviewed every six months.
+
+HEALTH AND SAFETY
+
+Remote employees must complete the home workstation self-assessment in Workday
+once a year and within 30 days of moving home. Northwind may ask for photographs
+of the workspace, which are deleted after assessment.
+
+Work-related injuries at home are reported through the same incident process as
+office injuries, within 24 hours.
+
+NON-COMPLIANCE
+
+A first breach of this policy is handled as a documented conversation with the
+employee's manager. A second breach within 12 months may lead to withdrawal of
+remote-work approval. Security breaches are escalated immediately to the
+Information Security team and may lead to disciplinary action.
+
+QUESTIONS
+
+Questions about this policy go to People Operations at the internal address
+people-ops, or to the policy owner named on page one. The policy is reviewed
+every 12 months and was last reviewed on 10 March 2024.

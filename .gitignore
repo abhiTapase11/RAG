@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+
+# generated index and uploads
+data/chroma/
+data/uploads/
+data/registry.json
+
+# the sample PDF is rendered from the .txt by scripts/ingest_samples.py
+data/samples/*.pdf

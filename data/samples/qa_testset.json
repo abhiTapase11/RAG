@@ -1,0 +1,87 @@
+{
+  "description": "Hand-written Q&A test set over the two sample documents. 'answer_keys' are exact strings that a correct answer (and the gold chunk) must contain. Cases marked 'unanswerable' must produce the refusal response.",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the wingspan of an Aurora Sparrow?",
+      "expected_file": "aurora-sparrow-field-guide.md",
+      "expected_section": "Identification",
+      "answer_keys": ["24"],
+      "reference_answer": "24 centimetres."
+    },
+    {
+      "id": "q2",
+      "question": "What is the mean clutch size of the Aurora Sparrow, and how many nests was it measured over?",
+      "expected_file": "aurora-sparrow-field-guide.md",
+      "expected_section": "Breeding",
+      "answer_keys": ["4.1", "212"],
+      "reference_answer": "A mean of 4.1 eggs across 212 monitored nests."
+    },
+    {
+      "id": "q3",
+      "question": "How many days does incubation last, and which parent incubates?",
+      "expected_file": "aurora-sparrow-field-guide.md",
+      "expected_section": "Breeding",
+      "answer_keys": ["13"],
+      "reference_answer": "13 days, by the female alone."
+    },
+    {
+      "id": "q4",
+      "question": "What was the estimated Aurora Sparrow population in the 2022 survey?",
+      "expected_file": "aurora-sparrow-field-guide.md",
+      "expected_section": "Conservation Status",
+      "answer_keys": ["180,000"],
+      "reference_answer": "About 180,000 mature individuals, down 18 percent from 2012."
+    },
+    {
+      "id": "q5",
+      "question": "What percentage of prey items delivered to Aurora Sparrow nestlings are crane-fly larvae?",
+      "expected_file": "aurora-sparrow-field-guide.md",
+      "expected_section": "Diet",
+      "answer_keys": ["44"],
+      "reference_answer": "44 percent."
+    },
+    {
+      "id": "q6",
+      "question": "How large is the home office allowance at Northwind Logistics and when must it be claimed?",
+      "expected_file": "northwind-remote-work-policy.txt",
+      "expected_section": "EQUIPMENT AND EXPENSES",
+      "answer_keys": ["650", "90"],
+      "reference_answer": "A one-time allowance of 650 dollars, claimable in the first 90 days of remote work."
+    },
+    {
+      "id": "q7",
+      "question": "What are the core hours in the Northwind remote work policy?",
+      "expected_file": "northwind-remote-work-policy.txt",
+      "expected_section": "CORE HOURS AND AVAILABILITY",
+      "answer_keys": ["10:00", "16:00"],
+      "reference_answer": "10:00 to 16:00 in the employee's registered time zone."
+    },
+    {
+      "id": "q8",
+      "question": "How many working days per year may a Northwind employee work from another country?",
+      "expected_file": "northwind-remote-work-policy.txt",
+      "expected_section": "WORKING FROM ANOTHER COUNTRY",
+      "answer_keys": ["20"],
+      "reference_answer": "Up to 20 working days per calendar year, with written approval 21 days in advance."
+    },
+    {
+      "id": "q9",
+      "question": "How long must an employee wait before they can work remotely?",
+      "expected_file": "northwind-remote-work-policy.txt",
+      "expected_section": "ELIGIBILITY",
+      "answer_keys": ["60"],
+      "reference_answer": "After 60 days of continuous service."
+    },
+    {
+      "id": "q10",
+      "question": "How many vacation days do Northwind employees get each year?",
+      "unanswerable": true
+    },
+    {
+      "id": "q11",
+      "question": "What is the typical lifespan of an Aurora Sparrow in captivity?",
+      "unanswerable": true
+    }
+  ]
+}
